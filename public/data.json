@@ -1,0 +1,38 @@
+[
+    {
+      "id": "63346b07b915af107fb1b4a4",
+      "picture": "https://cdn-media-1.freecodecamp.org/images/1*3pyJUEclXtPt8TNONerTUg.jpeg",
+      "time": 120,
+      "name": "Watch Module"
+    },
+    {
+      "id": "63346b077000a7398177e883",
+      "picture": "https://potomac.edu/wp-content/uploads/2020/12/benefits-of-coding-e1606911064541.jpg",
+      "time": 180,
+      "name": "Code Practicing"
+    },
+    {
+      "id": "63346b077cf176d23b9d20a2",
+      "picture": "https://images.unsplash.com/photo-1591088520983-5afbf1efdde2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "time": 60,
+      "name": "Extra Resource Reading"
+    },
+    {
+      "id": "63346b07ad557eebab28db0c",
+      "picture": "https://images.unsplash.com/photo-1585432959315-d9342fd58eb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "time": 30,
+      "name": "Quiz"
+    },
+    {
+      "id": "63346b0726876c6f29dcfe27",
+      "picture": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/cr56mc51ztjhje9pip1a",
+      "time": 60,
+      "name": "Recap Previous Module"
+    },
+    {
+      "id": "63346b0737bc812e7d5ee715",
+      "picture": "https://learnenglishteens.britishcouncil.org/sites/teens/files/rs261_157781379-low.jpg",
+      "time": 60,
+      "name": "Taking Notes"
+    }
+  ]
